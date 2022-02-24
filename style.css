@@ -24,6 +24,7 @@
 .heading {
     padding-top: 120px;
     padding-bottom: 60px;
+    padding-right: 180px;
 }
 .form {
 border-top: 1px solid grey;
@@ -35,6 +36,7 @@ padding-top: 20px;
 }
 form {
     /* width: 750px;     */
+    padding-right: 200px;
 }
 fieldset {
     /* padding: 20px 200px 30px 50px; */
