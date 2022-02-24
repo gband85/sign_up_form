@@ -26,6 +26,12 @@
     padding-bottom: 60px;
     padding-right: 180px;
 }
+.heading p {
+    margin-top: 20px;
+}
+.heading p:first-child {
+    margin-top: 0;
+}
 .form {
 border-top: 1px solid grey;
 border-bottom: 1px solid grey;
@@ -37,6 +43,7 @@ padding-top: 20px;
 form {
     /* width: 750px;     */
     padding-right: 200px;
+    margin-top: 20px;
 }
 fieldset {
     /* padding: 20px 200px 30px 50px; */
@@ -59,4 +66,7 @@ label {
 }
 .account {
     padding-top: 20px;
+}
+.account p {
+    margin-top: 20px;
 }
