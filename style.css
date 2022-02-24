@@ -64,6 +64,9 @@ label {
     width: 120px;
     display: block;
 }
+input[type="text"] {
+height: 20px;
+}
 .account {
     padding-top: 20px;
 }
