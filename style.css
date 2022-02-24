@@ -66,12 +66,15 @@ li {
 
 }
 label {
-    width: 120px;
+    width: 130px;
     display: block;
 }
-input[type="text"] {
+input {
 height: 20px;
 border: 1px solid #e5e7eb;
+}
+input:invalid {
+    border: 1px solid red;
 }
 .account {
     padding-top: 20px;
