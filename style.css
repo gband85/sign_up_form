@@ -5,6 +5,7 @@
 .container {
     display: flex;
     height: 100vh;
+    /* width: 900px; */
 }
 .left {
     background: url("./halie-west-25xggax4bSA-unsplash.jpg") no-repeat center center/cover;
@@ -17,11 +18,19 @@
     width: 70%;
     /* padding-left: 50px; */
 }
+.form, .heading, .account {
+    padding-left: 40px;
+}
+.heading {
+    padding-top: 120px;
+    padding-bottom: 60px;
+}
 .form {
 border-top: 1px solid grey;
 border-bottom: 1px solid grey;
 padding-bottom: 30px;
-padding-left: 40px;
+padding-top: 20px;
+/* padding-left: 40px; */
 }
 form {
     width: 750px;    
@@ -43,4 +52,7 @@ li {
 label {
     width: 120px;
     display: block;
+}
+.account {
+    padding-top: 20px;
 }
