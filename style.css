@@ -9,6 +9,13 @@
     font-weight: bold;
 }
 
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url(./BebasNeue-Regular.ttf);
+    font-weight: 400;
+}
+
+
 .container {
     display: flex;
     height: 100vh;
@@ -80,6 +87,7 @@ li {}
 label {
     width: 130px;
     display: block;
+    font-family: 'Bebas Neue';
 }
 
 input {
