@@ -62,7 +62,7 @@
 
 form {
     /* width: 750px;     */
-    padding-right: 200px;
+    padding-right: 165px;
     margin-top: 20px;
 }
 
@@ -95,7 +95,7 @@ input {
     height: 25px;
     border: 1px solid #e5e7eb;
     border-radius: 2px;
-    padding: 2px 3px;
+    padding: 0.5px 10px;
 }
 
 input[type=password]:invalid {
