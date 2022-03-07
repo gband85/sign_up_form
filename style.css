@@ -78,8 +78,12 @@ ul {
 li {}
 
 label {
-    width: 145px;
+    /* width: 150px; */
     display: block;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 0.8rem;
+    font-weight: 500;
 }
 
 input {
