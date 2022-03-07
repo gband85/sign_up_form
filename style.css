@@ -56,6 +56,9 @@
     /* width: 100%; */
     /* padding-left: 40px; */
 }
+.form p {
+    font-weight: 500;
+}
 
 form {
     /* width: 750px;     */
