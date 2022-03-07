@@ -2,13 +2,11 @@
     margin: 0;
     padding: 0;
 }
-
 @font-face {
     font-family: 'Norse Bold';
     src: url(./Norse-Bold.otf);
     font-weight: bold;
 }
-
 .container {
     display: flex;
     height: 100vh;
@@ -21,11 +19,13 @@
     height: 800px; */
     /* height: 100vh; */
     width: 35%;
+    font-family: 'Norse Bold';
 }
 
 .right {
     width: 65%;
     /* padding-left: 50px; */
+    font-family: 'Roboto', sans-serif;
 }
 
 .form, .heading, .account {
@@ -80,7 +80,6 @@ li {}
 label {
     width: 145px;
     display: block;
-    font-family: 'Carrois Gothic SC';
 }
 
 input {
@@ -94,7 +93,6 @@ input:invalid {
 
 .account {
     padding-top: 30px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .account button {
