@@ -9,13 +9,6 @@
     font-weight: bold;
 }
 
-@font-face {
-    font-family: 'Bebas Neue';
-    src: url(./BebasNeue-Regular.ttf);
-    font-weight: 400;
-}
-
-
 .container {
     display: flex;
     height: 100vh;
@@ -85,9 +78,9 @@ ul {
 li {}
 
 label {
-    width: 130px;
+    width: 145px;
     display: block;
-    font-family: 'Bebas Neue';
+    font-family: 'Carrois Gothic SC';
 }
 
 input {
