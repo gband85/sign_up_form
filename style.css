@@ -92,11 +92,13 @@ label {
 }
 
 input {
-    height: 20px;
+    height: 25px;
     border: 1px solid #e5e7eb;
+    border-radius: 2px;
+    padding: 2px 3px;
 }
 
-input:invalid {
+input[type=password]:invalid {
     border: 1px solid red;
 }
 
