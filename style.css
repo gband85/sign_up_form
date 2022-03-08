@@ -42,7 +42,7 @@ opacity: 0.5;
 .left .logo {
     color: #fff;
     display:flex;
-    /* align-items: center; */
+    align-items: center;
     justify-content: center;
     position: relative;  
     top: -120px;
