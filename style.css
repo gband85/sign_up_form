@@ -123,3 +123,8 @@ input[type=password]:invalid {
     font-size: 1.1rem;
     font-family: 'Roboto';
 }
+.account a {
+    text-decoration: none;
+    color: #596d48;
+    font-weight: 600;
+}
