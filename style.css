@@ -120,5 +120,6 @@ input[type=password]:invalid {
 .account p {
     margin-top: 35px;
     /* font-family: Arial, Helvetica, sans-serif; */
-    font-size: 1.2rem;
+    font-size: 1.1rem;
+    font-family: 'Roboto';
 }
