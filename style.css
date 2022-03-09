@@ -24,9 +24,6 @@ body {
 
 .left {
     background: url("./halie-west-25xggax4bSA-unsplash.jpg") no-repeat center center/cover;
-    /* width: 500px;
-    height: 800px; */
-    /* height: 100vh; */
     width: 35%;
     font-family: 'Norse Bold';
     font-size: 5rem;
@@ -34,7 +31,6 @@ body {
 
 .right {
     width: 65%;
-    /* padding-left: 50px; */
     font-family: 'Roboto', sans-serif;
 }
 
@@ -42,7 +38,6 @@ body {
     opacity: 0.5;
     background-color: black;
     height: 130px;
-    /* position: absolute; */
     margin-top: 48%;
 }
 
@@ -53,7 +48,6 @@ body {
     justify-content: center;
     position: relative;
     top: -120px;
-    /* margin-top: 10px; */
 }
 
 .form,
@@ -79,13 +73,9 @@ body {
 }
 
 .form {
-    /* border-top: 1px solid grey;
-    border-bottom: 1px solid grey; */
     padding-bottom: 30px;
     padding-top: 20px;
     box-shadow: 0px 2px 5px grey;
-    /* width: 100%; */
-    /* padding-left: 40px; */
 }
 
 .form p {
@@ -93,15 +83,11 @@ body {
 }
 
 form {
-    /* width: 750px;     */
-    /* padding-right: 165px; */
     margin-top: 20px;
 }
 
 fieldset {
-    /* padding: 20px 200px 30px 50px; */
     border: none;
-    /* width: 70%;  */
 }
 
 ul {
@@ -115,7 +101,6 @@ ul {
 li {}
 
 label {
-    /* width: 150px; */
     display: block;
     text-transform: uppercase;
     letter-spacing: 1.5px;
@@ -162,7 +147,6 @@ input[type=password]:invalid {
 
 .account p {
     margin-top: 35px;
-    /* font-family: Arial, Helvetica, sans-serif; */
     font-size: 1.1rem;
     font-family: 'Roboto';
     font-weight: 400;
